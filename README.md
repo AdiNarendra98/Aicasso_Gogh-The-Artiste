@@ -21,5 +21,6 @@ python main.py
 ```
 # Demo
 If everything has gone right, a window will  pop up as in the below figure:
-[![virtual painter demo (python, openCV and mediapipe)](./images/youtube-thumbnail.jpg)](https://youtu.be/unW7xfYYom4 "virtual painter demo (python, openCV and mediapipe)
-") 
+
+
+![Alt Text](https://github.com/AdiNarendra98/Aicasso-Gogh-The-Artist/blob/main/Demo%20SS.gif)
