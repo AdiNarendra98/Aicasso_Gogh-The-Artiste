@@ -1,4 +1,4 @@
-# Aicasso Goghet-Le Artiste
+# Aicasso Gogh-Le Artiste
 This project is about using openCV and mediapipe libraries to utilize the webcamera for drawing in real time.   
 The main idea is:   
 * detect hands using mediapipe
