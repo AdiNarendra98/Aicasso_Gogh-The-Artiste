@@ -1,5 +1,11 @@
 # Aicasso Gogh-L'Artiste
-![teaser](https://github.com/AdiNarendra98/Aicasso_Gogh-The-Artiste/blob/main/SS.jpg)
+<p align="center">
+  <img 
+    width="530"
+    height="400"
+    src="https://github.com/AdiNarendra98/Aicasso_Gogh-The-Artiste/blob/main/SS.jpg"
+  >
+</p>
 
 This project is about using openCV and mediapipe libraries to utilize the webcamera for drawing in real time.   
 The main idea is:   
