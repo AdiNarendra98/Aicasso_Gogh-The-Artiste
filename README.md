@@ -1,7 +1,7 @@
 # Aicasso Gogh-L'Artiste
-![teaser](https://github.com/AdiNarendra98/Aicasso_Gogh-The-Artiste/blob/main/Screenshot%202022-08-14%20at%2012.38.13%20PM.png)
+![teaser](https://github.com/AdiNarendra98/Aicasso_Gogh-The-Artiste/blob/main/SS.jpg)
 
-### This project is about using openCV and mediapipe libraries to utilize the webcamera for drawing in real time.   
+This project is about using openCV and mediapipe libraries to utilize the webcamera for drawing in real time.   
 The main idea is:   
 * detect hands using mediapipe
 * detect wheither the index and middle fingers are up
