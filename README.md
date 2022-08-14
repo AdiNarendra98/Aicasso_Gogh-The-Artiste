@@ -29,7 +29,7 @@ python main.py
 ```
 # Demo
 If everything has gone right, a window will  pop up as in the below figure:
-Enjoy your drawing adevnture!!😁
+Enjoy your drawing escapade!!😁
 
 
 ![Alt Text](https://github.com/AdiNarendra98/Aicasso-Gogh-The-Artist/blob/main/Demo%20SS.gif)
