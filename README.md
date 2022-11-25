@@ -32,4 +32,7 @@ If everything has gone right, a window will  pop up as in the below figure:
 Enjoy your drawing escapade!!😁
 
 
-![Alt Text](https://github.com/AdiNarendra98/Aicasso-Gogh-The-Artist/blob/main/Demo%20SS.gif)
+
+<p align="center">
+<img src="https://github.com/AdiNarendra98/Aicasso-Gogh-The-Artist/blob/main/Demo%20SS.gif" width="500" height="250"><br>
+</p>
